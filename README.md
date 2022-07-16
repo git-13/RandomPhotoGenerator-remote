@@ -1,5 +1,5 @@
 # RandomPhotoGenerator-remote
-Random photo generated as buttom "Random Photo" pushed 
+Random photo generated as buttom "Random Photo" pushed. 
 Based on video from iOS Academy https://www.youtube.com/watch?v=yuo50-TiKgo
 ![Simulator Screen Shot - iPhone 13 Pro Max - 2022-07-07 at 11 34 34](https://user-images.githubusercontent.com/64162767/177742790-440f0550-94a1-4764-ade2-e9de4123ee9d.png)
 ![Simulator Screen Shot - iPhone 13 Pro Max - 2022-07-07 at 11 34 53](https://user-images.githubusercontent.com/64162767/177742805-b077a42e-e4e2-484d-bd3e-685cadb79bea.png)
